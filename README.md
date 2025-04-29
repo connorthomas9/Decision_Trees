@@ -5,4 +5,4 @@ The primary analysis takes place in the `dt_notebook.ipynb` Jupyter Notebook fil
 
 The dataset used for this project is the `Admission_Predict.csv` file
 
-This project comes by way of `Codecademy.com` and has been recreated from scratch in order to display knowledge of applied usage of binary classification and regression modeling using decision trees.
+This project comes by way of `Codecademy.com` and has been recreated from scratch in order to demonstrate knowledge of applied usage of binary classification and regression modeling using decision trees.
